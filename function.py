@@ -5,7 +5,7 @@ class fun1():
         pass
 
     def f1():
-        print('fun1导入成功')
+        print('fun1导入不成功')
 
 
 class fun2():
